@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'HsToolKit.swift'
+  s.name             = 'HsToolKit-Universal.swift'
   s.module_name      = 'HsToolKit'
   s.version          = '1.3.0'
   s.summary          = 'NetworkManager, Logger'
